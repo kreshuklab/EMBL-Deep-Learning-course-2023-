@@ -1,0 +1,21 @@
+channels:
+    - pytorch
+    - conda-forge
+name:
+    dl-image-pytorch-advanced
+dependencies:
+    - bioimageio.core
+    - cudatoolkit >=11,<=12  # choose correct CUDA version for your system
+    - cluster_tools
+    - imageio
+    - jupyter
+    - nb_conda
+    - pip
+    - python-elf
+    - pytorch
+    - scikit-image
+    - scikit-learn
+    - tensorboard
+    - torchvision
+    - torch_em
+    - tqdm

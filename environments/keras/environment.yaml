@@ -1,0 +1,24 @@
+name: dl-image-keras
+channels:
+  - defaults
+  - nvidia
+dependencies:
+  - python
+  - cudatoolkit=11.0.*
+  - cudnn=8.0.*
+  - jupyter
+  - numpy
+  - scikit-image
+  - scikit-learn
+  - pandas
+  - scipy
+  - seaborn
+  - tqdm
+  - ipython
+  - tensorboard
+  - pip
+  - pip:
+    - tensorflow==2.7
+    - csbdeep
+    - stardist
+    - gputools
