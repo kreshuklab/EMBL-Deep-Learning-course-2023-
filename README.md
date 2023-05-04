@@ -2,7 +2,9 @@
 
 ## Schedule:
 
-TODO
+- Webinar 1: May 8
+- Webinar 2: May 15
+- Webinar 3: May 22
 
 ## Set-up:
 
@@ -72,7 +74,7 @@ If you need to copy-and-paste a lot of text and the above procedure is incovenie
     - In the URL field, type about:config and press enter to open the config page.
     - On the config page, search "Clipboard"
     - Set the following properties to true:  
-    `dom.events.testing.asyncClipboard` 
+    `dom.events.testing.asyncClipboard`  
     `dom.events.asyncClipboard.readText`  
     `dom.events.asyncClipboard.clipboardItem`  
     - Delete firefox cookies
