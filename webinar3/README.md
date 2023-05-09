@@ -1,17 +1,15 @@
 # Exercises for Webinar 3
 
-We provide exercises for pytorch and keras. Please try to work on both exercises to get an understanding of both libraries.
+We provide exercises in both pytorch and keras. Please try to work on both exercises to get an understanding of both libraries.
 
 ## Pytorch
 
-In the first two exercises we follow up on the exercises from webinar2 and implement a CNN and data augmentation for image classification on the cifar dataset.
-The last exercise provides an introduction to image segmentation with a U-net to prepare us for one of the course and introduce a very important method for bioimage analysis.
-- `pytorch/1_data_preparation`: pytorch dataloader for classification.
-- `pytorch/2_logistic_regression`: image classification with a simple logistic regression model. 
-- `pytorch/3_multi_layer_perceptron`: image classification with a multi-layer perceptron.
+In the first two exercises we follow up on the exercises from webinar 2 and implement a CNN and data augmentation for image classification on the cifar dataset.
+The last exercise provides an introduction to image segmentation with a U-net to prepare us for the course and introduce a very important method for bioimage analysis.
+
+For the pytorch exercises, please use the `DL Course(Pytorch)` environment in BAND. You can start it via `Applications->Programming->DL Course(Pytorch)`.
 
 ## Keras
-
 
 In the subfolder `keras` you will find 3 different notebooks that demonstrate a DL based segmentation workflows of increasing complexity. Please also note the questions/exercises (<span style="background-color:lightblue">marked by blue back ground</span>).   
 
