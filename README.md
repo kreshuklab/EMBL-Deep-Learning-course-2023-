@@ -45,10 +45,10 @@ Data that you save on `/scratch` is persistent between sessions and will be stor
 
 - Open the terminal (e.g. via small terminal system in the top toolbar)
 - Go to your directory on `/scratch`: `cd /scratch/your_name`
-- clone this repository via `git clone https://github.com/kreshuklab/teaching-dl-course-2022.git`
+- clone this repository via `git clone https://github.com/kreshuklab/teaching-dl-course-2023.git`
 - Now you can navigate to the folders with exercises in the jupyter environment to run the exercises
 - To update the repository, e.g. to download new exercises, open the terminal again and
-    - Go into the directory via `cd teaching-dl-course-2022.git` (or some other filepath if you did not directly clone it to your home)
+    - Go into the directory via `cd teaching-dl-course-2023.git` (or some other filepath if you did not directly clone it to your home)
     - update the repository via `git pull origin main`
 
 ### Enabling copy paste in BAND
